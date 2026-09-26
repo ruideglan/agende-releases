@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.26",
+  "versionCode": 27,
+  "versionName": "1.0.27",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/agende-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-26T16:13:03Z",
+  "publishedAt": "2026-09-26T16:47:30Z",
   "notes": "Melhorias de desempenho e corre\u00e7\u00f5es gerais.",
   "forceUpdate": false
 }
