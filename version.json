@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.29",
+  "versionCode": 30,
+  "versionName": "1.0.30",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/agende-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-27T17:18:59Z",
-  "notes": "Melhorias de desempenho e corre\u00e7\u00f5es gerais.",
+  "publishedAt": "2026-09-27T20:32:07Z",
+  "notes": "- Corre\u00e7\u00e3o de safe-area.- Layout mobile otimizado para o Caixa e para a Grade de Agendamentos.- Ajustes na leitura e organiza\u00e7\u00e3o dos cards de agendamento.- Corre\u00e7\u00e3o do erro de carregamento cont\u00ednuo na agenda.- Resolu\u00e7\u00e3o de problemas no login (Google e senhas) e no v\u00ednculo de funcion\u00e1rios.- Ajustes na configura\u00e7\u00e3o de hor\u00e1rios da equipe.Continuamos trabalhando para deixar o app cada vez melhor!",
   "forceUpdate": false
 }
