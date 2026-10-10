@@ -2,7 +2,7 @@
   "versionCode": 35,
   "versionName": "1.0.35",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/agende-releases/main/app-debug.apk",
-  "publishedAt": "2026-10-10T16:26:25Z",
+  "publishedAt": "2026-10-10T16:29:17Z",
   "notes": "Ajustes de safe-area e visibilidade de botoes de acao em todos os modais mobile/desktop.",
   "forceUpdate": false
 }
